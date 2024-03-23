@@ -30,7 +30,7 @@ Unfurl the scroll of thine own being:
 Before thee lies a tapestry woven with smacks of triumph! Each deed, a valiant feat, a victory hard-won <img src="https://slackmojis.com/emojis/12420-meow_mudamudamuda/download" width="25" height="25"/> <br><br>
 
 <p align="center">
-  <a href="https://github.com/GoodbyeKittyy"><img src="https://github-readme-stats.vercel.app/api?username=GoodbyeKittyyy&hide_border=true&show_icons=true" alt="GoodbyeKittyy's github stats"></a>
+  <a href="https://github.com/GoodbyeKittyy"><img src="https://github-readme-stats.vercel.app/api?username=GoodbyeKittyy&hide_border=true&show_icons=true" alt="GoodbyeKittyy's github stats"></a>
 </p>
 
 
