@@ -18,7 +18,7 @@ Unfurl the scroll of thine own being:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="60" height="60"/><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="c" width="60" height="60"/> <img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png" alt="c" width="55" height="60"/>
 <br>
 
-<img src="https://github.com/GoodbyeKittyy/GoodbyeKittyy/assets/161730857/502de0bf-b76d-43ba-9992-e8b88ec1b60a" width="230" height="180"/><br><br><br>
+<img src="https://github.com/GoodbyeKittyy/GoodbyeKittyy/assets/161730857/502de0bf-b76d-43ba-9992-e8b88ec1b60a" width="235" height="180"/><br><br><br>
 
 
 
