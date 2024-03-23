@@ -2,7 +2,7 @@
 <img src="https://slackmojis.com/emojis/48938-meow_sg/download" width="100" height="100"/> <br><br>
   </p>
   
-### Welcome thee, digital voyager ![Visitor Count](https://profile-counter.glitch.me/yvki/count.svg)
+### Welcome thee, digital voyager ![Visitor Count](https://profile-counter.glitch.me/GoodbyeKittyy/count.svg)
 ### This indeed repository of thine whom hail from fair Singapore , where wonders untold and secrets of purrgramming reside nyaa <br>
 ### Stars and Catnip are much obliged!<img src="https://slackmojis.com/emojis/60881-meow_attention/download" width="25" height="25"/>
 
