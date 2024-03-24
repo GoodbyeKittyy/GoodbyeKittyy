@@ -1,4 +1,4 @@
-<p align="center">1
+<p align="center">
 <img src="https://slackmojis.com/emojis/48938-meow_sg/download" width="100" height="100"/> <br><br>
   </p>
   
