@@ -27,7 +27,7 @@ About Me:
 - <img src="https://slackmojis.com/emojis/12808-meow_dj/download" width="25" height="25"/> Coding while listening to music<br><br>
   
 
-Github Statistics: <img src="https://slackmojis.com/emojis/12420-meow_mudamudamuda/download" width="25" height="25"/> <br><br>
+Github Statistics <img src="https://slackmojis.com/emojis/12420-meow_mudamudamuda/download" width="25" height="25"/> <br><br>
 
 <p align="center">
   <a href="https://github.com/GoodbyeKittyy"><img src="https://github-readme-stats.vercel.app/api?username=GoodbyeKittyy&hide_border=true&show_icons=true" alt="GoodbyeKittyy's github stats"></a>
