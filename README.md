@@ -11,7 +11,7 @@ About Me:
 
 - <img src="https://slackmojis.com/emojis/12413-meow_cry/download" width="25" height="25"/> I am studying in The Bachelor of Science with Honours in Digital Supply Chain at Singapore Institute of Technology (SIT).<br>
   
-- <img src="https://slackmojis.com/emojis/10521-meow_code/download" width="25" height="25"/> Here are some of my programming languages experience:<br><br>
+- <img src="https://slackmojis.com/emojis/10521-meow_code/download" width="25" height="25"/> Here is some of my experience:<br><br>
 
 <img src="https://serkonda7.gallerycdn.vsassets.io/extensions/serkonda7/vscode-vba/0.9.6/1706889036685/Microsoft.VisualStudio.Services.Icons.Default" width="60" height="60"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="60" height="60"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="80" height="60"/><img src="https://techmeaway.net/wp-content/uploads/2020/02/powershell_logo-1024x1024.png" width="60" height="60"/>
 
