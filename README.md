@@ -1,7 +1,4 @@
 <h2 align="center">😺 Welcome to My GitHub!</h2>  
-<p align="center">
-  Visitor Count: <img src="https://profile-counter.glitch.me/GoodbyeKittyy/count.svg" />
-</p>
 
 
 ---
@@ -20,8 +17,4 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=GoodbyeKittyy&theme=gruvbox&no-frame=true&no-bg=true&margin-w=15" />
-  </a>
-</p>
+
