@@ -14,7 +14,7 @@
 <div align="center">
   <h2><strong>My Github Stats</strong></h2>
   
-  <img src="https://github-profile-trophy-pink.vercel.app/?username=GoodbyeKittyy&theme=gruvbox&no-frame=true&no-bg=true&row=1&column=4" width="100%" alt="Trophy" align="middle" /> <br><br>
+  <img src="https://pornolab.vercel.app/?username=GoodbyeKittyy&theme=gruvbox&no-frame=true&no-bg=true&row=1&column=4" width="100%" alt="Trophy" align="middle" /> <br><br>
 
   <img src="https://github-readme-stats-pi-lyart-26.vercel.app/api/top-langs/?username=GoodbyeKittyy&langs_count=6&card_width=500&bg_color=000000&text_color=0079fa&hide_border=true&layout=compact" alt="Most used languages" /> <br>
 
