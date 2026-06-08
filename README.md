@@ -13,7 +13,7 @@
 ## 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/GoodbyeKittyy">
-    <img src="https://github-readme-stats-2x9vr1wqy-goodbyekittyy-projects.vercel.app/api?username=GoodbyeKittyy&hide_border=true&show_icons=true" />
+    <img src="https://github-readme-stats-pi-lyart-26.vercel.app/api?username=GoodbyeKittyy&hide_border=true&show_icons=true" />
   </a>
 </p>
 
