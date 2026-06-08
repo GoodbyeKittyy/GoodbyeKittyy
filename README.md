@@ -18,9 +18,8 @@
 </p>
 
 ## 🏆 Trophies
-
 <p align="center">
   <a href="https://github.com/GoodbyeKittyy">
-    <img src="https://github-profile-trophy.vercel.app/?username=GoodbyeKittyy&no-frame=true&row=1" />
+    <img src="https://github-profile-trophy-iota-flax-62.vercel.app/?username=GoodbyeKittyy&no-frame=true&row=1" />
   </a>
 </p>
