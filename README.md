@@ -14,7 +14,7 @@
 <div align="center">
   <h2><strong>My Github Stats</strong></h2>
   
-  <img src="https://pornolab.vercel.app/?username=GoodbyeKittyy&theme=gruvbox&no-frame=true&no-bg=true&row=2&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A" width="100%" alt="Trophy" align="middle" /> <br><br>
+  <img src="https://pornolab.vercel.app/?username=GoodbyeKittyy&theme=gruvbox&no-frame=true&no-bg=true&row=2&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A" width="800" alt="Trophy" />
 
   <img src="https://github-readme-stats-pi-lyart-26.vercel.app/api/top-langs/?username=GoodbyeKittyy&langs_count=20&card_width=500&bg_color=000000&text_color=0079fa&hide_border=true&layout=compact&hide=rich%20text%20format" alt="Most used languages" />
 
