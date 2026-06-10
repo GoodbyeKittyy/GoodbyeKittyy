@@ -16,7 +16,7 @@
   
   <img src="https://pornolab.vercel.app/?username=GoodbyeKittyy&theme=gruvbox&no-frame=true&no-bg=true&row=2&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A" width="1800" alt="Trophy" />
 
-  <img src="https://github-readme-stats-pi-lyart-26.vercel.app/api/top-langs/?username=GoodbyeKittyy&langs_count=20&card_width=500&bg_color=000000&text_color=0079fa&hide_border=true&layout=compact&hide=rich%20text%20format" alt="Most used languages" />
+  <img src="https://github-readme-stats-pi-lyart-26.vercel.app/api/top-langs/?username=GoodbyeKittyy&langs_count=30&card_width=500&bg_color=000000&text_color=0079fa&hide_border=true&layout=compact&hide=rich%20text%20format" alt="Most used languages" />
 
   <img src="https://streak-stats.demolab.com/?user=GoodbyeKittyy&theme=highcontrast&hide_border=true&border_radius=0&ring=2100FA&background=000000&fire=0079FA&currStreakNum=0079FA&dates=0079FA&sideNums=0079FA&currStreakLabel=0079FA&stroke=0079FA&sideLabels=0079FA" height="150" alt="streaks graph" />
 
