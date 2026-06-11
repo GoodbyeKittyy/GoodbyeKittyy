@@ -1,18 +1,32 @@
 <h2 align="center">😺 Welcome to My GitHub!</h2>  
 
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Raj+Welcome+to+my+Profile!" align="middle" alt="Hey there, Welcome to a Cat Lover's Profile! animated typed out">
+<img  src="assets/borderseperator.gif">
 
----
 
-## 🛠️ Skills
-- **Supply Chain:** Forecasting, Inventory, S&OP, Lean Six Sigma Black Belt, ERP Systems  
-- **Programming:** Python, VBA, Java, C/C++, C#, JavaScript, SQL, Go, Rust, and more  
-- **Tech:** Django, React, Flask, TensorFlow, Docker, PostgreSQL, MongoDB, AWS, SAP, Oracle Cloud  
+<p align="left">I'm ZY, a IT Solutions Engineer focused on full-stack development, scalable backend systems, automation, machine learning and api development.<br><br>- 🔭 I’m working as a Cloud & DevOps Engineer and AI Software Developer, architecting and deploying high-performance web applications, managing relational databases, administrating information systems, and integrating monitlithic & microservices<br>- 📚 I'm currently always learning about Data Engineering & Analytics, API Development, Computer Vision, Generative AI & Large Language Models, and Quantum Computing<br>- ⚡ In my free time I attend hackathons, solve LeetCode programming problems, develop Games, build Enterprise-grade projects, and optimize algorithms for performance and scalability</p>
 
----
+<h2></h2><br>
 
-## 📊 GitHub Stats
+<p align="center"> 
+  <img src="assests/nightlife.gif" alt="Lofi Nightlight scene" /> 
+</p>
+
 <div align="center">
-  <h2><strong>My Github Stats</strong></h2>
+  <h2> <strong> My Expertise 🛠️  </strong></h2>
+  <img src="https://skillicons.dev/icons?i=autocad,c,cs,cpp,css,github,githubactions,gitlab,go,html,java,js,md,php,powershell,py,pytorch,r,ruby,rust,ts,vscode" alt="skills actively learning logos"> <br> 
+  <h2> <strong> Actively Learning </strong></h2>
+  <img src="https://skillicons.dev/icons?i=arduino,azure,dart,dotnet,elixir,figma,gcp,godot,haskell,kotlin,kubernetes,lua,npm,perl,php,react,scala,tensorflow,unreal,zig" alt="skills actively learning logos"> <br> 
+  <h2> <strong> Plan to Learn </strong></h2>
+  <img src="https://skillicons.dev/icons?i=angular,bash,bootstrap,cloudflare,discordjs,dynamodb,fastapi,express,flutter,graphql,jenkins,jest,jquery,kafka,laravel,nestjs,nextjs,nuxtjs,obsidian,solidjs,vue" alt="skills planning to learn logos">
+</div>
+
+
+---
+
+##  GitHub Stats
+<div align="center">
+  <h2><strong>My Github Stats📊</strong></h2>
   
   <img src="https://pornolab.vercel.app/?username=GoodbyeKittyy&theme=gruvbox&no-frame=true&no-bg=true&row=2&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C,UNKNOWN" width="1800" alt="Trophy" />
 
