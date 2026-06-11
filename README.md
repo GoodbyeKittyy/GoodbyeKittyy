@@ -1,7 +1,5 @@
 <h2 align="center">😺 Welcome to My GitHub!</h2>  
 
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Raj+Welcome+to+my+Profile!" align="middle" alt="Hey there, Welcome to a Cat Lover's Profile! animated typed out">
-<img  src="assets/borderseperator.gif">
 
 
 <p align="left">I'm ZY, a IT Solutions Engineer focused on full-stack development, scalable backend systems, automation, machine learning and api development.<br><br>- 🔭 I’m working as a Cloud & DevOps Engineer and AI Software Developer, architecting and deploying high-performance web applications, managing relational databases, administrating information systems, and integrating monitlithic & microservices<br>- 📚 I'm currently always learning about Data Engineering & Analytics, API Development, Computer Vision, Generative AI & Large Language Models, and Quantum Computing<br>- ⚡ In my free time I attend hackathons, solve LeetCode programming problems, develop Games, build Enterprise-grade projects, and optimize algorithms for performance and scalability</p>
